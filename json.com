@@ -188,3 +188,19 @@
 	    ]
 		}
 	,	
+{
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"اخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.bouzee.eppl.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
